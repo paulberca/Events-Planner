@@ -1,0 +1,10 @@
+TechConference2024 Description 01.03.2024 09:00 500 https://www.techconference2024.com
+Health&WellnessExpo Description 15.03.2024 10:00 300 https://www.healthwellnessexpo.com
+MusicFestival Description 20.04.2024 12:00 1000 https://www.musicfestival2024.com
+ArtExhibition Description 05.05.2024 11:00 200 https://www.artexhibition2024.com
+BusinessSummit Description 10.06.2024 08:00 400 https://www.businesssummit2024.com
+Food&WineFestival Description 25.06.2024 14:00 600 https://www.foodwinefestival2024.com
+FilmFestival Description 15.07.2024 18:00 800 https://www.filmfestival2024.com
+ScienceFair Description 01.08.2024 09:00 350 https://www.sciencefair2024.com
+LiteratureFestival Description 10.09.2024 10:00 450 https://www.literaturefestival2024.com
+SportsMeet Description 20.10.2024 08:00 700 https://www.sportsmeet2024.com
